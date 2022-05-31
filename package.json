@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "near-api-js": "^0.44.2"
+  }
+}
